@@ -5,7 +5,12 @@ This is a complete collection of my Linux icon theme ports.
 ![VC_Icon_Theme_Collection](https://github.com/OliverKurz/vc-icon-theme-collection/raw/master/images/Preview.png)
 Installation Walkthrough
 ------------------------
-1. Install a Linux distribution that supports a Desktop Environment.
+1. Install a Linux distribution that supports any of the following Desktop Environments:
+
+* MATE
+* XFCE
+* LXDE
+* LXQt
 
 2. cd into the directory this archive is cloned or copied into and type the following commands:
 
