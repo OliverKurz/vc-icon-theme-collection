@@ -8,7 +8,7 @@ Installation Walkthrough
 ------------------------
 1. Install a Linux distribution that supports any of the following Desktop Environments:
 * MATE
-* XFCE
+* Xfce
 * LXDE
 * LXQt
 2. cd into the directory this archive was cloned or copied into and type the following commands:
