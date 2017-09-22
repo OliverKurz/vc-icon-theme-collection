@@ -26,7 +26,7 @@ $ sudo make install
 
 Known Issues
 ------------
-1. Packages do not uninstall using sudo make uninstall.
+1. Packages do not uninstall using `sudo make uninstall`.
 
 2. SVG icons for folder-icon-color aren't scaling correctly over 150% in caja icon view in 17.10(1) (currently they appear about 50% smaller compared to other icons also at higher zoom ratios).
 
