@@ -1,8 +1,9 @@
 VC Icon Theme Collection
 ========================
-This is a complete collection of my Linux icon theme ports.
+This is a complete collection of Linux icon theme ports.
 
 ![VC_Icon_Theme_Collection](https://github.com/OliverKurz/vc-icon-theme-collection/raw/master/images/Preview.png)
+
 Installation Walkthrough
 ------------------------
 1. Install a Linux distribution that supports any of the following Desktop Environments:
