@@ -11,7 +11,7 @@ Installation Walkthrough
 * Xfce
 * LXDE
 * LXQt
-2. cd into the directory this archive was cloned or copied into and type the following commands:
+2. cd to the directory that this archive was cloned or copied into and enter the following commands:
 
 ```
 $ ./autogen.sh
