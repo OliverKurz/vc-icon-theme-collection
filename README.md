@@ -6,7 +6,7 @@ This is a complete collection of Linux icon theme ports.
 
 Installation Walkthrough
 ------------------------
-1. Install a Linux distribution that supports MATE, Xfce, LXDE, or LXQt.
+1. Choose a Linux distribution that supports MATE, Xfce, LXDE, or LXQt.
 
 2. cd into the directory that this archive was cloned or copied to and enter the commands:
 
