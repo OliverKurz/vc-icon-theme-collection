@@ -1,6 +1,6 @@
 VC Icon Theme Collection
 ========================
-This is a complete collection of Linux icon theme ports.
+This is a complete collection of Linux icon themes.
 
 ![VC_Icon_Theme_Collection](https://github.com/OliverKurz/vc-icon-theme-collection/raw/master/images/Preview.png)
 
@@ -16,7 +16,7 @@ $ make
 $ sudo make install
 ```
 
-3. From the Desktop Environment's Appearance Settings select an icon theme and apply it. In most cases the custom icon pack should be in full effect.
+3. From the Desktop Environment's Appearance Settings select an icon theme and apply it. In most cases the custom icon pack is applied.
 
 4. If icons haven't changed, restart the file manager being used, or logout.
 
