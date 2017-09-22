@@ -16,9 +16,9 @@ $ make
 $ sudo make install
 ```
 
-3. From the Desktop Environment's Appearance Settings select an icon theme and apply it. In most cases the custom icon pack is applied.
+3. From the Desktop Environment's Appearance Settings select an icon theme and apply it.
 
-4. If icons haven't changed, restart the file manager being used, or logout.
+4. If icons haven't changed restart file manager, or logout.
 
 * Uninstalling the icon themes can be achieved by `cd`ing as admin into `/usr/share/icons` and searching for folders to delete with the name _Icons.
 
