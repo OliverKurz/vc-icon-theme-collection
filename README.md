@@ -8,7 +8,7 @@ Installation Walkthrough
 ------------------------
 1. Choose a Linux distribution that supports MATE, Xfce, LXDE, or LXQt.
 
-2. cd into the directory the archive was cloned or copied to and enter the commands:
+2. `cd` into the directory the archive was cloned or copied to and enter the commands:
 
 ```
 $ ./autogen.sh
@@ -20,7 +20,7 @@ $ sudo make install
 
 4. If icons haven't changed, restart the file manager being used, or logout.
 
-* Uninstalling the icon themes can be achieved by `cd`ing as administrator into the /usr/share/icons directory, searching for folders with the tag _Icons, and carefully deleteing the matches.
+* Uninstalling the icon themes can be achieved by `cd`ing as admin into `/usr/share/icons` and searching for folders to delete with the name _Icons.
 
 Known Issues
 ------------
