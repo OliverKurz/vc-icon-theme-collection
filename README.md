@@ -8,7 +8,7 @@ Installation Walkthrough
 ------------------------
 1. Choose a Linux distribution that supports MATE, Xfce, LXDE, or LXQt.
 
-2. cd into the directory that this archive was cloned or copied to and enter the commands:
+2. cd into the directory the archive was cloned or copied to and enter the commands:
 
 ```
 $ ./autogen.sh
