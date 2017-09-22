@@ -20,7 +20,7 @@ $ sudo make install
 
 4. If icons haven't changed, restart the file manager being used, or logout.
 
-* Uninstalling the icon themes can be done by cding as administrator into the /usr/share/icons directory and searching for folders to delete with the tag _Icons.
+* Uninstalling the icon themes can be achieved by `cd`ing as administrator into the /usr/share/icons directory, searching for folders with the tag _Icons, and carefully deleteing the matches.
 
 Known Issues
 ------------
