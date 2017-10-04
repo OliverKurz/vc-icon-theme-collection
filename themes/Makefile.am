@@ -13,6 +13,7 @@ themes_DATA = \
     HUD_Machine_Slate_Icons.tar.gz \
     Magnum_Icons.tar.gz \
     Poison_Icons.tar.gz \
+    Sci-World_Reavers_Edition_Icons.tar.gz \
     Steampunk_Icons.tar.gz \
     Toxic_Blue_Icons.tar.gz \
     Toxic_Icons.tar.gz
